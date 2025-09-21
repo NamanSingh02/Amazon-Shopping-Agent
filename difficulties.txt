@@ -1,6 +1,0 @@
-biggest problems:
-
-- too many products for a comprehensive analysis
-tackled by first finding top 10 using only star rating then finding top 5 using composite satisfaction score. Hence we had to browse only 10 websites thoroughly.
-- difficult to retrieve details due to anti-scraping measures.
-- due dynamic nature of html it is difficult to retrieve details like price and customer reviews and star rating using fixed container tags/classes 
