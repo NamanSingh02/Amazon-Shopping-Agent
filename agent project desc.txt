@@ -1,9 +1,0 @@
-0.7*rating + 0.3*(avg. customer review value)*5 to make the scale comparable to rating.
-
-normalizing the components (e.g., mapping the sentiment to a 0–5 scale)
-2.5v+2.5
-
-adjust for 0 reviews (Dr=0 error)
-
-in the final website display a table.
-Url Star rating and composite satisfaction score
